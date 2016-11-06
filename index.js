@@ -29,9 +29,12 @@ var movieService = {
                 //nodes[0].removeChild(nodes[0].getElementsByTagName("movie")[args.movie_id]);
              //--------------------------------------------------------------------------------------------------------------------
              //-------------------------------------------- remove by movie name --------------------------------------------------
-                for (var i = 0; i < nodes[0].getElementsByTagName("movie").length; i++) {       //remove by movie name
-                    if (nodes[0].getElementsByTagName("movie")[i].childNodes[0].nodeValue == args.movie_name) { 
-                        nodes[0].removeChild(nodes[0].getElementsByTagName("movie")[i]);
+                for (var i = 0; i < nodes[0].getElementsByTagName("movie").length; i++) {
+                    if (nodes[0].getElementsByTagName("movie")[i].getElementsByTagName("name")[0].childNodes[0].data == args.name) {
+                        if (nodes[0].getElementsByTagName("movie")[i].getElementsByTagName("director")[0].childNodes[0].data == args.director) {
+                            nodes[0].removeChild(nodes[0].getElementsByTagName("movie")[i]);
+                            i++;
+                        }
                     }
                 }
              //--------------------------------------------------------------------------------------------------------------------
@@ -79,7 +82,7 @@ var movieService = {
 
                 genres = doc.createElement("genres");
                 genre = doc.createElement("genre");
-                txtGenre = doc.createTextNode(args.genre[1])
+                txtGenre = doc.createTextNode(args.genre)
                 genre.appendChild(txtGenre);
                 genres.appendChild(genre);
 
