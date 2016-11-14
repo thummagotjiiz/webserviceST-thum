@@ -3,7 +3,7 @@
 	<movie>
 	  <name>The Dark Knight</name>
 	  <director>Christopher Nolan</director>
-	  <year>2008</year>
+	  <year>2008</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Thriller</genre>
@@ -18,7 +18,7 @@
 	<movie>
 	  <name>Batman Begins</name>
 	  <director>Christopher Nolan</director>
-	  <year>2005</year>
+	  <year>2005</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Thriller</genre>
@@ -33,7 +33,7 @@
 	<movie>
 	  <name>The Dark Knight Rises</name>
 	  <director>Christopher Nolan</director>
-	  <year>2012</year>
+	  <year>2012</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Thriller</genre>
@@ -48,7 +48,7 @@
 	<movie>
 	  <name>Inception</name>
 	  <director>Christopher Nolan</director>
-	  <year>2010</year>
+	  <year>2010</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -63,7 +63,7 @@
 	<movie>
 	  <name>Gladiator</name>
 	  <director>Ridley Scott</director>
-	  <year>2000</year>
+	  <year>2000</year><length>1.20</length><resolution>760</resolution><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Drama</genre>
@@ -78,7 +78,7 @@
 	<movie>
 	  <name>Mad Max: Fury Road</name>
 	  <director>George Miller</director>
-	  <year>2015</year>
+	  <year>2015</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -93,7 +93,7 @@
 	<movie>
 	  <name>The Bourne Identity</name>
 	  <director>Doug Liman</director>
-	  <year>2002</year>
+	  <year>2002</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Mystery</genre>
@@ -108,7 +108,7 @@
 	<movie>
 	  <name>The Bourne Supremacy</name>
 	  <director>Paul Greengrass</director>
-	  <year>2004</year>
+	  <year>2004</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Mystery</genre>
@@ -123,7 +123,7 @@
 	<movie>
 	  <name>The Bourne Ultimatum</name>
 	  <director>Paul Greengrass</director>
-	  <year>2007</year>
+	  <year>2007</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Mystery</genre>
@@ -138,7 +138,7 @@
 	<movie>
 	  <name>Saving Private Ryan</name>
 	  <director>Steven Spielberg</director>
-	  <year>1998</year>
+	  <year>1998</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Drama</genre>
@@ -153,7 +153,7 @@
 	<movie>
 	  <name>47 Ronin</name>
 	  <director>Carl Rinsch</director>
-	  <year>2013</year>
+	  <year>2013</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Drama</genre>
@@ -168,7 +168,7 @@
 	<movie>
 	  <name>Maleficent</name>
 	  <director>Robert Stromberg</director>
-	  <year>2014</year>
+	  <year>2014</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -183,7 +183,7 @@
 	<movie>
 	  <name>Snow White and the Huntsman</name>
 	  <director>Rupert Sanders</director>
-	  <year>2012</year>
+	  <year>2012</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -198,7 +198,7 @@
 	<movie>
 	  <name>pixels</name>
 	  <director>Chris Columbus</director>
-	  <year>2015</year>
+	  <year>2015</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Comedy</genre>
@@ -213,7 +213,7 @@
 	<movie>
 	  <name>Lucy</name>
 	  <director>Luc Besson</director>
-	  <year>2014</year>
+	  <year>2014</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Sci-Fi</genre>
@@ -227,7 +227,7 @@
 	<movie>
 	  <name>Oz the Great and Powerful</name>
 	  <director>Sam Raimi</director>
-	  <year>2013</year>
+	  <year>2013</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -242,7 +242,7 @@
 	<movie>
 	  <name>Avatar</name>
 	  <director>James Cameron</director>
-	  <year>2010</year>
+	  <year>2010</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -257,7 +257,7 @@
 	<movie>
 	  <name>Mr. &amp; Mrs. Smith</name>
 	  <director>Doug Limen</director>
-	  <year>2005</year>
+	  <year>2005</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -272,7 +272,7 @@
 	<movie>
 	  <name>Enders Game</name>
 	  <director>Gavin Hood</director>
-	  <year>2013</year>
+	  <year>2013</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -287,7 +287,7 @@
 	<movie>
 	  <name>Largo Winch</name>
 	  <director>Jerome Salle</director>
-	  <year>2009</year>
+	  <year>2009</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Adventure</genre>
 	    <genre>Thriller</genre>
@@ -301,7 +301,7 @@
 	<movie>
 	  <name>The Lord of the Rings : The Fellowship of the Ring</name>
 	  <director>Peter Jackson</director>
-	  <year>2001</year>
+	  <year>2001</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>High Fantasy</genre>
 	    <genre>Adventure</genre>
@@ -315,7 +315,7 @@
 	<movie>
 	  <name>Transformers</name>
 	  <director>Michael Bay</director>
-	  <year>2007</year>
+	  <year>2007</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Science Fiction</genre>
 	    <genre>Action</genre>
@@ -329,7 +329,7 @@
 	<movie>
 	  <name>Avatar</name>
 	  <director>James Cameron</director>
-	  <year>2009</year>
+	  <year>2009</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Epic Science Fiction</genre>
 	  </genres>
@@ -342,7 +342,7 @@
 	<movie>
 	  <name>Edge of Tomorrow</name>
 	  <director>Doug Liman</director>
-	  <year>2014</year>
+	  <year>2014</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Science Fiction</genre>
 	    <genre>Action</genre>
@@ -355,7 +355,7 @@
 	<movie>
 	  <name>In Time</name>
 	  <director>Andrew Niccol</director>
-	  <year>2011</year>
+	  <year>2011</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Dystopian</genre>
 	    <genre>Science Fiction</genre>
@@ -370,7 +370,7 @@
 	<movie>
 	  <name>John Wick</name>
 	  <director>Chad Stahelski, David Leitch</director>
-	  <year>2014</year>
+	  <year>2014</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Neo-Noir</genre>
 	    <genre>Action</genre>
@@ -385,7 +385,7 @@
 	<movie>
 	  <name>James Bond 007 : Casino Royale</name>
 	  <director>Martin Campbell</director>
-	  <year>2006</year>
+	  <year>2006</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>thriller</genre>
@@ -399,7 +399,7 @@
 	<movie>
 	  <name>Pirates of the Caribbean:At World's End</name>
 	  <director>Gore Verbinski</director>
-	  <year>2007</year>
+	  <year>2007</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Epic Fantasy</genre>
 	  </genres>
@@ -412,7 +412,7 @@
 	<movie>
 	  <name>Guardians of the Galaxy</name>
 	  <director>James Gunn</director>
-	  <year>2014</year>
+	  <year>2014</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Superhero</genre>
 	  </genres>
@@ -425,7 +425,7 @@
 	<movie>
 	  <name>Fast and Furious 7</name>
 	  <director>James Wan</director>
-	  <year>2015</year>
+	  <year>2015</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	  </genres>
@@ -438,7 +438,7 @@
 	<movie>
 	  <name>Insurgent</name>
 	  <director>Robert Schwentke</director>
-	  <year>2015</year>
+	  <year>2015</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -453,7 +453,7 @@
 	<movie>
 	  <name>Divergent</name>
 	  <director>Neil Burger</director>
-	  <year>2014</year>
+	  <year>2014</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -468,7 +468,7 @@
 	<movie>
 	  <name>Lights out</name>
 	  <director>David F. Sandberg</director>
-	  <year>2016</year>
+	  <year>2016</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Horror</genre>
 	    <genre>Thriller</genre>
@@ -483,7 +483,7 @@
 	<movie>
 	  <name>The Mortal Instruments: City of Bones</name>
 	  <director>Harald Zwart</director>
-	  <year>2013</year>
+	  <year>2013</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Fantasy</genre>
 	    <genre>Action</genre>
@@ -498,7 +498,7 @@
 	<movie>
 	  <name>Pitch perfect 2</name>
 	  <director>Elizabeth Banks</director>
-	  <year>2015</year>
+	  <year>2015</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Comedy</genre>
 	    <genre>Musical</genre>
@@ -513,7 +513,7 @@
 	<movie>
 	  <name>Eragon</name>
 	  <director>Stefen Fangmeier</director>
-	  <year>2006</year>
+	  <year>2006</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Fantasy</genre>
 	    <genre>Adventure</genre>
@@ -528,7 +528,7 @@
 	<movie>
 	  <name>Midnight Special</name>
 	  <director>Jeff Nichols</director>
-	  <year>2016</year>
+	  <year>2016</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Adventure</genre>
 	    <genre>Sci-Fi</genre>
@@ -543,7 +543,7 @@
 	<movie>
 	  <name>Maze Runner : The Scorch Trials</name>
 	  <director>Wes Ball</director>
-	  <year>2015</year>
+	  <year>2015</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -558,7 +558,7 @@
 	<movie>
 	  <name>The Hunger Games 1</name>
 	  <director>Gary Ross</director>
-	  <year>2012</year>
+	  <year>2012</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Adventure</genre>
 	    <genre>Fantasy</genre>
@@ -573,7 +573,7 @@
 	<movie>
 	  <name>Percy Jackson : Sea of Monsters</name>
 	  <director>Thor Freudenthal</director>
-	  <year>2013</year>
+	  <year>2013</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
@@ -588,7 +588,7 @@
 	<movie>
 	  <name>Transcendence</name>
 	  <director>Wally Pfister</director>
-	  <year>2014</year>
+	  <year>2014</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Drama</genre>
 	    <genre>Mystery</genre>
@@ -603,7 +603,7 @@
 	<movie>
 	  <name>The Fault in Our Stars</name>
 	  <director>Josh Boone</director>
-	  <year>2014</year>
+	  <year>2014</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Drama</genre>
 	    <genre>Romance</genre>
@@ -617,7 +617,7 @@
 	<movie>
 	  <name>Escape Plan</name>
 	  <director>Mikael Håfström</director>
-	  <year>2013</year>
+	  <year>2013</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Crime</genre>
@@ -631,7 +631,7 @@
 	<movie>
 	  <name>Interstellar</name>
 	  <director>Christopher Nolan</director>
-	  <year>2014</year>
+	  <year>2014</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Adventure</genre>
 	    <genre>Drama</genre>
@@ -646,7 +646,7 @@
 	<movie>
 	  <name>The Martian</name>
 	  <director>Ridley Scott</director>
-	  <year>2015</year>
+	  <year>2015</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Adventure</genre>
 	    <genre>Drama</genre>
@@ -661,7 +661,7 @@
 	<movie>
 	  <name>R.I.P.D.</name>
 	  <director>Robert Schwentke</director>
-	  <year>2013</year>
+	  <year>2013</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Comedy</genre>
@@ -676,7 +676,7 @@
 	<movie>
 	  <name>Exam</name>
 	  <director>Stuart Hazeldine</director>
-	  <year>2009</year>
+	  <year>2009</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Mystery</genre>
 	    <genre>Thriller</genre>
@@ -690,7 +690,7 @@
 	<movie>
 	  <name>Summer Wars</name>
 	  <director>Mamoru Hosoda</director>
-	  <year>2009</year>
+	  <year>2009</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Animation</genre>
 	    <genre>Action</genre>
@@ -705,7 +705,7 @@
 	<movie>
 	  <name>The Boy and the Beast</name>
 	  <director>Mamoru Hosoda</director>
-	  <year>2015</year>
+	  <year>2015</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Animation</genre>
 	    <genre>Action</genre>
@@ -720,7 +720,7 @@
 	<movie>
 	  <name>Spirited Away</name>
 	  <director>Hayao Miyazaki</director>
-	  <year>2001</year>
+	  <year>2001</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Animation</genre>
 	    <genre>Adventure</genre>
@@ -735,7 +735,7 @@
 	<movie>
 	  <name>The Spiderwick Chronicles</name>
 	  <director>Mark Waters</director>
-	  <year>2008</year>
+	  <year>2008</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Adventure</genre>
 	  </genres>
@@ -748,7 +748,7 @@
 	<movie>
 	  <name>Charlie and the Chocolate Factory</name>
 	  <director>Tim Burton</director>
-	  <year>2005</year>
+	  <year>2005</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Drama</genre>
 	    <genre>Comedy</genre>
@@ -762,7 +762,7 @@
 	<movie>
 	  <name>Maleficent</name>
 	  <director>Robert Stromberg</director>
-	  <year>2014</year>
+	  <year>2014</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Adventure</genre>
 	    <genre>Drama</genre>
@@ -775,7 +775,7 @@
 	<movie>
 	  <name>The Golden Compass</name>
 	  <director>Chris Weitz</director>
-	  <year>2007</year>
+	  <year>2007</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Adventure</genre>
 	    <genre>Drama</genre>
@@ -790,7 +790,7 @@
 	<movie>
 	  <name>Lone Survivor</name>
 	  <director>Peter Berg</director>
-	  <year>2013</year>
+	  <year>2013</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	  </genres>
@@ -803,7 +803,7 @@
 	<movie>
 	  <name>Source Code</name>
 	  <director>Duncan Jones</director>
-	  <year>2011</year>
+	  <year>2011</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Sci-Fi</genre>
 	    <genre>Action</genre>
@@ -817,7 +817,7 @@
 	<movie>
 	  <name>Battle: Los Angeles</name>
 	  <director>Jonathan Liebesman</director>
-	  <year>20011</year>
+	  <year>20011</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Sci-Fi</genre>
 	    <genre>Action</genre>
@@ -831,7 +831,7 @@
 	<movie>
 	  <name>Scream 4</name>
 	  <director>Wes Craven</director>
-	  <year>20011</year>
+	  <year>20011</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Thriller</genre>
 	  </genres>
@@ -844,7 +844,7 @@
 	<movie>
 	  <name>Tower Heist</name>
 	  <director>Brett Ratner</director>
-	  <year>2011</year>
+	  <year>2011</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Comedy</genre>
 	  </genres>
@@ -857,7 +857,7 @@
 	<movie>
 	  <name>Immortals</name>
 	  <director>Tarsem</director>
-	  <year>2011</year>
+	  <year>2011</year><length>1.20</length><resolution>760</resolution>
 	  <genres>
 	    <genre>Action</genre>
 	    <genre>Adventure</genre>
