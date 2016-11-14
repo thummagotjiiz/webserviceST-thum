@@ -33,23 +33,23 @@ var args4 = { movie_name: "MOVIENAME", director: "DIRECTOR", year: "2016", genre
                   table += "<td>" + x[i].getElementsByTagName("resolution")[0].childNodes[0].nodeValue + "</td>";
                   var genres = x[i].getElementsByTagName("genres");
                   var each_genre = genres[0].getElementsByTagName("genre");
-                  var genreStr = "";
+                  var genreStr = "<table>";
                   for (k = 0; k < each_genre.length; k++) {
-                      genreStr += each_genre[k].childNodes[0].nodeValue + ", ";
+                      genreStr += "<tr><td>"+ each_genre[k].childNodes[0].nodeValue + "</td></tr>";
                   }
-                  table += "<td>" + genreStr + "</td>";
+                  table += "<td>" + genreStr + "</table></td>";
                   var stars = x[i].getElementsByTagName("stars");
                   var each_star = stars[0].getElementsByTagName("name");
-                  var starStr = "";
+                  var starStr = "<table>";
                   for (k = 0; k < each_star.length; k++) {
-                      starStr += each_star[k].childNodes[0].nodeValue + ", ";
+                      starStr += "<tr><td>" + each_star[k].childNodes[0].nodeValue + "</td></tr>";
                   }
-                  table += "<td>" + starStr + "</td>";
+                  table += "<td>" + starStr + "</table></td>";
                   table += "</tr>";
               }
               table += "</table></body></html>";
           } else {
-              table = "<div align='center'><h3>Not Found !!</h3><div>"
+              table = "<div align='center'><h3>Not Found !!</h3><div></table></body></html>"
           }
           fs.writeFile(
             "movie.html",
